@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589486823359",
+    "project_id": "send-otp-a3b11",
+    "storage_bucket": "send-otp-a3b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589486823359:android:77018a23caf23fa5e4730a",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.ngobuituananh.mssv19110163.designchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589486823359-r8qcdr4hg76d38hhk3t8lkqerp8gnaad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJ4JYg2OCEAdGAL6b13-W3EOJhAYV0JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589486823359-r8qcdr4hg76d38hhk3t8lkqerp8gnaad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
